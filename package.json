@@ -1,0 +1,19 @@
+{
+    "name": "docsify-relative-path",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/linception/docsify-relative-path.git"
+    },
+    "author": "sharonlee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/linception/docsify-relative-path/issues"
+    },
+    "homepage": "https://github.com/linception/docsify-relative-path#readme",
+}
